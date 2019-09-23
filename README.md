@@ -11,3 +11,7 @@ team could be mitigated with Agile methodologies that we are currently learning 
 
 Through this incident, we can learn that no matter the methodologies that different companies follow, having an inhouse team may be
 the most important factor in producing good and clean code.
+
+> ### Kertu Koss comments
+> It definitely is a learning point for both Boeing and other companies outsourcing their software tasks, but it still seems like Boeing is trying to overly blame the Indian developers they worked with. By mentioning that _“They met the requirements, per se, but you could do it better.”_ it of course sounds like the developers did not have enough skills, but especially in the light of our Agile class a I would say that it also indicates the possibly poor comminication, unclear instructions and vague standards that the developers might have faced on their side. The lesson of the story could be that althought after salary calculations an inhouse development might sound too expensive, then the headache of constantly having to check for errors and quality and discuss every requirement to the absolute details might end up being not cheaper nor faster.
+
